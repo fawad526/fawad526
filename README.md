@@ -39,8 +39,14 @@ design skills, coupled with a keen analytical mindset. As a team player, I thriv
 
 <h3 align="left">Statastics:</h3>
 
-<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FAWAD&show_icons=true&locale=en&layout=compact&theme=dark" alt="fawad-iqbal" /></a>
+<a>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FAWAD&show_icons=true&locale=en&layout=compact&theme=dark" alt="fawad-iqbal" />
+</a>
 
+<!-- Add an empty line to create a new line for the next image -->
 
 <h3 align="left">Contributions:</h3>
-<a><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=FAWAD&theme=dark" alt="fawad-iqbal" /></a>
+
+<a>
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=FAWAD&theme=dark" alt="fawad-iqbal" />
+</a>
