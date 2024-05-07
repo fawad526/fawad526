@@ -32,13 +32,7 @@ design skills, coupled with a keen analytical mindset. As a team player, I thriv
 #### Programming Language Stack
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" width="40" height="40"/><img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/groovy/groovy.png" alt="groovy" title="groovy" width="40" height="40"/ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java8" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React" title="React" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/github/explore/6f2b7e31f6eb0e207c0388f29c8a5e3b107b5db8/topics/html/html.png" alt="HTML" title="HTML" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/github/explore/6f2b7e31f6eb0e207c0388f29c8a5e3b107b5db8/topics/css/css.png" alt="CSS" title="CSS" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/github/explore/64bcdf7b6e38b3b4404b3525e50f5d5f0115cdf3/topics/javascript/javascript.png" alt="JavaScript" title="JavaScript" width="40" height="40"/>
-    <img src="https://nodejs.org/static/images/logo-hexagon-card.png" alt="Node.js" title="Node.js" width="40" height="40"/>
-    <img src="https://expressjs.com/images/express-facebook-share.png" alt="Express" title="Express" width="40" height="40"/>
-</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React" title="React" width="40" height="40"/><img src="https://raw.githubusercontent.com/github/explore/6f2b7e31f6eb0e207c0388f29c8a5e3b107b5db8/topics/html/html.png" alt="HTML" title="HTML" width="40" height="40"/><img src="https://raw.githubusercontent.com/github/explore/6f2b7e31f6eb0e207c0388f29c8a5e3b107b5db8/topics/css/css.png" alt="CSS" title="CSS" width="40" height="40"/><img src="https://raw.githubusercontent.com/github/explore/64bcdf7b6e38b3b4404b3525e50f5d5f0115cdf3/topics/javascript/javascript.png" alt="JavaScript" title="JavaScript" width="40" height="40"/><img src="https://nodejs.org/static/images/logo-hexagon-card.png" alt="Node.js" title="Node.js" width="40" height="40"/><img src="https://expressjs.com/images/express-facebook-share.png" alt="Express" title="Express" width="40" height="40"/></p>
 
 
 #### OS Stack
