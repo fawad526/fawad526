@@ -55,7 +55,7 @@ design skills, coupled with a keen analytical mindset. As a team player, I thriv
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3 align="left">Contributions:</h3>
 
