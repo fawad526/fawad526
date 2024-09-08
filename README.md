@@ -55,10 +55,10 @@ design skills, coupled with a keen analytical mindset. As a team player, I thriv
 
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Contributions:</h3>
 
 <a>
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=FAWAD&theme=dark" alt="fawad-iqbal" />
+    <img align="center" src=(https://github-readme-stats.vercel.app/api?username=fawad526)](https://github.com/fawad526/github-readme-stats)" alt="fawad-iqbal" />
 </a>
