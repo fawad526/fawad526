@@ -1,5 +1,3 @@
-[![Fawad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fawad526)](https://github.com/anuraghazra/github-readme-stats)
-
 <h1 align="center">Hi, I'm Fawad Iqbal</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 <p>Dedicated Fullstack Developer with a strong foundation in software engineering, graduating from Air University Islamabad, I possess solid programming and design skills, coupled with a keen analytical mindset. As a team player, I thrive on collaborating with cross-functional teams and have an eye for detail.</p>
