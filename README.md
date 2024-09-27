@@ -51,6 +51,4 @@
 
 <h3 align="left">Contributions:</h3>
 
-<a href="https://github.com/fawad526/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fawad526" alt="fawad526 stats" />
-</a>
+
