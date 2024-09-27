@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Frontend Projects, as well Backend Projects**
 
-- 🌱 I’m currently learning **JavaScript,ReactJs, NodeJs**
+- 🌱 I’m currently learning **JavaScript,ReactJs, NodeJs, PHP(Laravel)**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
@@ -48,7 +48,3 @@
 
 #### Editor / IDE I ♥
 <p align="left"><img src="https://seeklogo.com/images/S/sublime-text-logo-C2736A0B50-seeklogo.com.png" alt="sublime" title="sublime" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
-
-<h3 align="left">Contributions:</h3>
-
-
