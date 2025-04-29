@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react, nodejs , mysql,Postgresql, Mongodb, Firebase, Docker**
 
-- 📫 How to reach me **fawadiqbal274@gmail.com**
+- 📫 How to reach me **fawadiqbal274@gmail.com  , +92-03334513912**
 
 - ⚡ Fun fact **My code works 55% of the time, every time**
 
