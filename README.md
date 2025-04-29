@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Frontend Projects, as well Backend Projects**
 
-- 🌱 I’m currently learning **JavaScript,ReactJs, NodeJs, PHP(Laravel)**
+- 🌱 I’m currently learning **JavaScript,ReactJs, NodeJs, Angular,Nextjs ,Nestjs**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 💬 Ask me about **react, nodejs , mysql, Mongodb, Firebase, Docker**
+- 💬 Ask me about **react, nodejs , mysql,Postgresql, Mongodb, Firebase, Docker**
 
 - 📫 How to reach me **fawadiqbal274@gmail.com**
 
