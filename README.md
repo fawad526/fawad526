@@ -16,7 +16,7 @@ I'm a **Full Stack Developer** specializing in modern JavaScript frameworks and 
 - 🌱 Specialized in **MERN Stack, Next.js, AWS Cloud Infrastructure**
 - 💼 Experienced in developing **multi-tenant systems** and **healthcare applications**
 - 🎓 Bachelor's in Software Engineering from **Air University Islamabad**
-- 📍 Based in **Hazro City, Punjab, Pakistan**
+- 📍 Based in **Islamabad, Pakistan**
 
 ## 💻 Tech Stack
 
