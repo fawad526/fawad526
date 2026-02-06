@@ -1,50 +1,123 @@
-<h1 align="center">Hi, I'm Fawad Iqbal</h1>
-<h3 align="center">A passionate Full stack developer</h3>
-<p>Dedicated Fullstack Developer with a strong foundation in software engineering, graduating from Air University Islamabad, I possess solid programming and design skills, coupled with a keen analytical mindset. As a team player, I thrive on collaborating with cross-functional teams and have an eye for detail.</p>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"/>
+# Hi there, I'm Fawad Iqbal 👋
 
-- 🔭 I’m currently working on **Frontend Projects, as well Backend Projects**
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fawad526)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fawadiqbal274@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fawad526)
 
-- 🌱 I’m currently learning **JavaScript,ReactJs, NodeJs, Angular,Nextjs ,Nestjs**
+</div>
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+## 🚀 About Me
 
-- 💬 Ask me about **react, nodejs , mysql,Postgresql, Mongodb, Firebase, Docker**
+I'm a **Full Stack Developer** specializing in modern JavaScript frameworks and scalable backend services. With a strong foundation in software engineering, I focus on building robust, user-centric applications from concept to deployment.
 
-- 📫 How to reach me **fawadiqbal274@gmail.com  , +92-03334513912**
+- 🔭 Currently working at **Digistromer (UAE Based)** as a Full Stack Developer
+- 🌱 Specialized in **MERN Stack, Next.js, AWS Cloud Infrastructure**
+- 💼 Experienced in developing **multi-tenant systems** and **healthcare applications**
+- 🎓 Bachelor's in Software Engineering from **Air University Islamabad**
+- 📍 Based in **Hazro City, Punjab, Pakistan**
 
-- ⚡ Fun fact **My code works 55% of the time, every time**
+## 💻 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://github.com/fawad526" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="fawad526" height="30" width="40" />
-    </a>
-    <a href="https://twitter.com/FawadBravo526" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="FawadBravo526" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/fawad526" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fawad526" height="30" width="40" />
-    </a>
-</p>
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-#### Programming Language Stack
-<p align="left">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" width="40" height="40"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" title="javascript" width="40" height="40"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" title="react" width="40" height="40"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" title="nodejs" width="40" height="40"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="express" title="express" width="40" height="40"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" title="html" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" title="css" width="40" height="40"/>
-</p>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-#### OS Stack
-<p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" alt="alpine" title="alpine" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centOS" title="centOS" width="40" height="40"/> </p>
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Database Stack
-<p align="left">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" title="mongodb" width="40" height="40"/><img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="firebase" title="firebase" width="40" height="40"/></p>
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
 
-#### DevOps Stack 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="jenkins" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" title="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" height="40"/> </p>
+## 🎯 Featured Projects
 
-#### Project Management Stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" title="bitbucket" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" title="trello" width="40" height="40"/></p>
+### 🏢 [SellAnyProperty](https://github.com/fawad526)
+**Multi-Tenant Real Estate Platform**
+- Built with **Node.js, Next.js, and PostgreSQL**
+- Implemented secure authentication and tenant-based data isolation
+- Deployed on **AWS** using EC2, RDS, and S3
+- Features dynamic content rendering and optimized database queries
 
-#### Editor / IDE I ♥
-<p align="left"> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
+### ⚕️ NCRP (National Council of Radiation and Protection)
+- Led full-stack development with role-based access control
+- Streamlined user management and role creation
+- Enhanced system security and efficiency
+
+### 🦽 CICIL
+- Healthcare platform empowering people with disabilities
+- Advanced analytics using **React.js and Three.js**
+- Dynamic data visualization for informed decision-making
+- Styled with styled-components for optimal UX
+
+### 💼 Kareer Konnect (FYP with 10Pearls)
+**MERN Stack Job Portal**
+- Connected employers, jobseekers, students, and researchers
+- Advanced filtering mechanisms for candidate identification
+- Profile customization and job matching algorithms
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Fawad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fawad526&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fawad526&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fawad526&theme=radical)
+
+</div>
+
+## 💼 Professional Experience
+
+**Full Stack Developer** @ Digistromer (UAE) | *Mar 2024 - Present*
+- Leading development of multi-tenant real estate systems
+- Managing AWS infrastructure (EC2, S3, RDS)
+- Implementing DevOps practices and optimizing deployment pipelines
+
+**Associate Full Stack Developer** @ Liam Crest USA | *Mar 2023 - Mar 2024*
+- Developed medical applications with component-based architecture
+- Collaborated with designers and senior management
+- Integrated new technologies for scalability and maintainability
+
+## 🎓 Education
+
+**Bachelor of Science in Software Engineering**  
+Air University Islamabad | 2019 - 2023
+
+## 📫 Let's Connect!
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/fawad526)
+- 🌐 [Portfolio](https://portfoliofad.vercel.app/)
+- 📧 [Email](mailto:fawadiqbal274@gmail.com)
+- 📱 Phone: +92 3709720033
+
+---
+
+<div align="center">
+
+### 💡 *"Building scalable solutions, one commit at a time"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=fawad526&color=brightgreen)
+
+</div>
