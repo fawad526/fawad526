@@ -77,16 +77,15 @@ I'm a **Full Stack Developer** specializing in modern JavaScript frameworks and 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=fawad526&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fawad526&theme=radical&hide_border=false" alt="GitHub Streak" width="48%" />
+<p align="center">
 
-<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fawad526&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=fawad526&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawad526&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="48%" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fawad526&layout=compact&theme=radical)
 
-</div>
+</p>
+
 
 ## 💼 Professional Experience
 
