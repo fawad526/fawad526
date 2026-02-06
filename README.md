@@ -3,6 +3,7 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fawad526)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfoliofad.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fawadiqbal274@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fawad526)
 
@@ -77,12 +78,12 @@ I'm a **Full Stack Developer** specializing in modern JavaScript frameworks and 
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=fawad526&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" />
 
-![Fawad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fawad526&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawad526&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fawad526&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fawad526&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fawad526&theme=radical&hide_border=false" alt="GitHub Streak" />
 
 </div>
 
