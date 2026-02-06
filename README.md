@@ -75,18 +75,6 @@ I'm a **Full Stack Developer** specializing in modern JavaScript frameworks and 
 - Advanced filtering mechanisms for candidate identification
 - Profile customization and job matching algorithms
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fawad526&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=fawad526&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fawad526&layout=compact&theme=radical)
-
-</p>
-
-
 ## 💼 Professional Experience
 
 **Full Stack Developer** @ Digistromer (UAE) | *Mar 2024 - Present*
