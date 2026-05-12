@@ -1,21 +1,21 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Fawad%20Iqbal&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20AWS&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=564f8f&height=220&section=header&text=Fawad%20Iqbal&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20AWS&descAlignY=55&descSize=18" width="100%" />
 
   <a href="https://github.com/fawad526">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+%26+Next.js+Specialist+%E2%9A%A1;AWS+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Building+Scalable+Multi-Tenant+Systems;Turning+Ideas+into+Production+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=B8A4E8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+%26+Next.js+Specialist+%E2%9A%A1;AWS+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Building+Scalable+Multi-Tenant+Systems;Turning+Ideas+into+Production+Code" alt="Typing SVG" />
   </a>
 
   <p>
-    <a href="https://www.linkedin.com/in/fawad526"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:fawadiqbal274@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://portfolio-fawad.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-    <a href="https://github.com/fawad526"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/fawad526"><img src="https://img.shields.io/badge/LinkedIn-564f8f?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:fawadiqbal274@gmail.com"><img src="https://img.shields.io/badge/Gmail-564f8f?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://portfolio-fawad.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-564f8f?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="https://github.com/fawad526"><img src="https://img.shields.io/badge/GitHub-564f8f?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=fawad526&label=Profile%20Views&color=00d9ff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/fawad526?label=Followers&style=for-the-badge&color=00d9ff&labelColor=181717" />
-  <img src="https://img.shields.io/badge/Based%20in-Islamabad,%20PK-00d9ff?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=fawad526&label=Profile%20Views&color=564f8f&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/fawad526?label=Followers&style=for-the-badge&color=564f8f&labelColor=1a1625" />
+  <img src="https://img.shields.io/badge/Based%20in-Islamabad,%20PK-564f8f?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 </div>
 
@@ -74,7 +74,7 @@ const fawad = {
   <sub>🇦🇪 UAE</sub>
 </td>
 <td width="80%">
-  <h3>🚀 Full Stack Developer <a href="#"><img src="https://img.shields.io/badge/Digistromer-0A66C2?style=flat-square&logoColor=white" align="right"/></a></h3>
+  <h3>🚀 Full Stack Developer <a href="#"><img src="https://img.shields.io/badge/Digistromer-564f8f?style=flat-square&logoColor=white" align="right"/></a></h3>
   Spearheading the development of a <b>multi-tenant real estate platform</b> with end-to-end ownership.
   <ul>
     <li>Architected and deployed scalable infrastructure on <b>AWS</b> (EC2, RDS, S3)</li>
@@ -89,7 +89,7 @@ const fawad = {
   <sub>🇺🇸 USA</sub>
 </td>
 <td>
-  <h3>⚕️ Associate Full Stack Developer <a href="#"><img src="https://img.shields.io/badge/Liam%20Crest-2EA043?style=flat-square&logoColor=white" align="right"/></a></h3>
+  <h3>⚕️ Associate Full Stack Developer <a href="#"><img src="https://img.shields.io/badge/Liam%20Crest-564f8f?style=flat-square&logoColor=white" align="right"/></a></h3>
   Contributed to medical applications with a focus on UX and scalable architecture.
   <ul>
     <li>Built component-based UIs that improved user satisfaction</li>
@@ -104,7 +104,7 @@ const fawad = {
   <sub>🇵🇰 PK</sub>
 </td>
 <td>
-  <h3>🌱 MERN Stack Developer (Internships) <a href="#"><img src="https://img.shields.io/badge/Texinity%20%26%20Daxno-6E40C9?style=flat-square&logoColor=white" align="right"/></a></h3>
+  <h3>🌱 MERN Stack Developer (Internships) <a href="#"><img src="https://img.shields.io/badge/Texinity%20%26%20Daxno-564f8f?style=flat-square&logoColor=white" align="right"/></a></h3>
   Hands-on experience across two back-to-back internships.
   <ul>
     <li>Built RESTful APIs with <b>Node.js, Express, MongoDB</b></li>
@@ -188,24 +188,52 @@ Connecting employers, jobseekers, students, and researchers in one ecosystem.
 
 <br/>
 
+## 🎮 3D Contribution Universe
+
+<div align="center">
+
+<!-- Auto-generated by the github-profile-3d-contrib GitHub Action -->
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="95%" />
+
+<sub><i>An isometric, 3D view of every contribution I've made — rendered fresh on each push.</i></sub>
+
+</div>
+
+<br/>
+
+## 🐍 Watch My Contributions Get Devoured
+
+<div align="center">
+
+<!-- Auto-generated by the Platane/snk GitHub Action -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fawad526/fawad526/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fawad526/fawad526/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/fawad526/fawad526/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fawad526&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawad526&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fawad526&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1625&title_color=B8A4E8&icon_color=B8A4E8&text_color=ffffff&ring_color=564f8f" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawad526&layout=compact&hide_border=true&bg_color=1a1625&title_color=B8A4E8&text_color=ffffff" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=fawad526&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=fawad526&hide_border=true&background=1a1625&ring=564f8f&fire=B8A4E8&currStreakLabel=B8A4E8&stroke=564f8f&dates=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=B8A4E8" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=fawad526&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=fawad526&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fawad526&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fawad526&bg_color=1a1625&color=B8A4E8&line=564f8f&point=ffffff&area=true&area_color=564f8f&hide_border=true" width="95%" />
 
 </div>
 
@@ -216,7 +244,7 @@ Connecting employers, jobseekers, students, and researchers in one ecosystem.
 <table>
 <tr>
 <td width="100">
-  <img src="https://img.shields.io/badge/2019--2023-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/2019--2023-564f8f?style=for-the-badge" />
 </td>
 <td>
   <strong>Bachelor of Science in Software Engineering</strong><br/>
@@ -225,7 +253,7 @@ Connecting employers, jobseekers, students, and researchers in one ecosystem.
 </tr>
 <tr>
 <td>
-  <img src="https://img.shields.io/badge/2018--2019-6E40C9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/2018--2019-B8A4E8?style=for-the-badge&labelColor=1a1625" />
 </td>
 <td>
   <strong>HSSC — Pre-Engineering</strong><br/>
@@ -245,13 +273,13 @@ I'm always open to **freelance opportunities, collaborations, and conversations*
 <br/>
 
 <a href="https://www.linkedin.com/in/fawad526">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-564f8f?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:fawadiqbal274@gmail.com">
-  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Send_an_Email-564f8f?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://portfolio-fawad.vercel.app/">
-  <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_Portfolio-564f8f?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -266,6 +294,6 @@ I'm always open to **freelance opportunities, collaborations, and conversations*
 
 ### 💡 *"Building scalable solutions, one commit at a time."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=564f8f&height=120&section=footer" width="100%" />
 
 </div>
