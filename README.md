@@ -1,113 +1,271 @@
-# Hi there, I'm Fawad Iqbal 👋
-
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fawad526)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fawadiqbal274@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fawad526)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-fawad.vercel.app/)
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Fawad%20Iqbal&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20AWS&descAlignY=55&descSize=18" width="100%" />
+
+  <a href="https://github.com/fawad526">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+%26+Next.js+Specialist+%E2%9A%A1;AWS+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Building+Scalable+Multi-Tenant+Systems;Turning+Ideas+into+Production+Code" alt="Typing SVG" />
+  </a>
+
+  <p>
+    <a href="https://www.linkedin.com/in/fawad526"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:fawadiqbal274@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://portfolio-fawad.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="https://github.com/fawad526"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=fawad526&label=Profile%20Views&color=00d9ff&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/fawad526?label=Followers&style=for-the-badge&color=00d9ff&labelColor=181717" />
+  <img src="https://img.shields.io/badge/Based%20in-Islamabad,%20PK-00d9ff?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 </div>
 
-## 🚀 About Me
+<br/>
 
-I'm a **Full Stack Developer** specializing in modern JavaScript frameworks and scalable backend services. With a strong foundation in software engineering, I focus on building robust, user-centric applications from concept to deployment.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-- 🔭 Currently working at **Digistromer (UAE Based)** as a Full Stack Developer
-- 🌱 Specialized in **MERN Stack, Next.js, AWS Cloud Infrastructure**
-- 💼 Experienced in developing **multi-tenant systems** and **healthcare applications**
-- 🎓 Bachelor's in Software Engineering from **Air University Islamabad**
-- 📍 Based in **Islamabad, Pakistan**
+```typescript
+const fawad = {
+  role:        "Full Stack Developer",
+  company:     "Digistromer (UAE)",
+  location:    "Islamabad, Pakistan 🇵🇰",
+  education:   "BS Software Engineering — Air University",
+  
+  currentFocus: [
+    "Multi-tenant SaaS architectures",
+    "Scalable Next.js + Node.js systems",
+    "AWS cloud infrastructure (EC2 · RDS · S3)",
+  ],
+  
+  passions:    ["Clean Code", "System Design", "DevOps", "UX"],
+  funFact:     "I deploy on Fridays — and live to tell the tale 🚀",
+};
+```
 
-## 💻 Tech Stack
+> 🎯 I build **production-grade web applications** end-to-end — from architecting databases and writing APIs, to crafting pixel-perfect UIs and managing cloud deployments. Currently leading the development of multi-tenant real estate platforms at a UAE-based startup.
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+<br/>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
-
-## 🎯 Featured Projects
-
-### 🏢 [SellAnyProperty](https://github.com/fawad526)
-**Multi-Tenant Real Estate Platform**
-- Built with **Node.js, Next.js, and PostgreSQL**
-- Implemented secure authentication and tenant-based data isolation
-- Deployed on **AWS** using EC2, RDS, and S3
-- Features dynamic content rendering and optimized database queries
-
-### ⚕️ NCRP (National Council of Radiation and Protection)
-- Led full-stack development with role-based access control
-- Streamlined user management and role creation
-- Enhanced system security and efficiency
-
-### 🦽 CICIL
-- Healthcare platform empowering people with disabilities
-- Advanced analytics using **React.js and Three.js**
-- Dynamic data visualization for informed decision-making
-- Styled with styled-components for optimal UX
-
-### 💼 Kareer Konnect (FYP with 10Pearls)
-**MERN Stack Job Portal**
-- Connected employers, jobseekers, students, and researchers
-- Advanced filtering mechanisms for candidate identification
-- Profile customization and job matching algorithms
-
-## 💼 Professional Experience
-
-**Full Stack Developer** @ Digistromer (UAE) | *Mar 2024 - Present*
-- Leading development of multi-tenant real estate systems
-- Managing AWS infrastructure (EC2, S3, RDS)
-- Implementing DevOps practices and optimizing deployment pipelines
-
-**Associate Full Stack Developer** @ Liam Crest USA | *Mar 2023 - Mar 2024*
-- Developed medical applications with component-based architecture
-- Collaborated with designers and senior management
-- Integrated new technologies for scalability and maintainability
-
-## 🎓 Education
-
-**Bachelor of Science in Software Engineering**  
-Air University Islamabad | 2019 - 2023
-
-## 📫 Let's Connect!
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/fawad526)
-- 🌐 [Portfolio](https://portfoliofad.vercel.app/)
-- 📧 [Email](mailto:fawadiqbal274@gmail.com)
-- 📱 Phone: +92 3709720033
-
----
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 💡 *"Building scalable solutions, one commit at a time"*
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,dotnet,html,css&theme=dark" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=fawad526&color=brightgreen)
+### Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,aws,vercel&theme=dark" />
+
+### Styling & State Management
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,redux,styledcomponents&theme=dark" />
+
+### Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,figma,npm&theme=dark" />
+
+</div>
+
+<br/>
+
+## 💼 Professional Journey
+
+<table>
+<tr>
+<td width="20%" align="center">
+  <strong>Mar 2024<br/>— Present</strong><br/>
+  <sub>🇦🇪 UAE</sub>
+</td>
+<td width="80%">
+  <h3>🚀 Full Stack Developer <a href="#"><img src="https://img.shields.io/badge/Digistromer-0A66C2?style=flat-square&logoColor=white" align="right"/></a></h3>
+  Spearheading the development of a <b>multi-tenant real estate platform</b> with end-to-end ownership.
+  <ul>
+    <li>Architected and deployed scalable infrastructure on <b>AWS</b> (EC2, RDS, S3)</li>
+    <li>Built frontend with <b>Next.js</b> and backend with <b>Node.js + PostgreSQL</b></li>
+    <li>Optimized CI/CD pipelines and DevOps practices for production reliability</li>
+  </ul>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <strong>Mar 2023<br/>— Mar 2024</strong><br/>
+  <sub>🇺🇸 USA</sub>
+</td>
+<td>
+  <h3>⚕️ Associate Full Stack Developer <a href="#"><img src="https://img.shields.io/badge/Liam%20Crest-2EA043?style=flat-square&logoColor=white" align="right"/></a></h3>
+  Contributed to medical applications with a focus on UX and scalable architecture.
+  <ul>
+    <li>Built component-based UIs that improved user satisfaction</li>
+    <li>Partnered with designers & senior leadership to refine product flows</li>
+    <li>Integrated emerging tech into the product to ensure long-term maintainability</li>
+  </ul>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <strong>Jul 2022<br/>— Sep 2022</strong><br/>
+  <sub>🇵🇰 PK</sub>
+</td>
+<td>
+  <h3>🌱 MERN Stack Developer (Internships) <a href="#"><img src="https://img.shields.io/badge/Texinity%20%26%20Daxno-6E40C9?style=flat-square&logoColor=white" align="right"/></a></h3>
+  Hands-on experience across two back-to-back internships.
+  <ul>
+    <li>Built RESTful APIs with <b>Node.js, Express, MongoDB</b></li>
+    <li>Designed responsive UIs with <b>React.js, Material-UI, Bootstrap 5</b></li>
+    <li>Collaborated cross-functionally on business-aligned, compliant features</li>
+  </ul>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 SellAnyProperty
+**Multi-Tenant Real Estate Platform**
+
+A scalable real estate platform serving multiple clients with isolated data tenancy and dynamic content rendering.
+
+`Next.js` `Node.js` `PostgreSQL` `AWS`
+
+- 🔐 Secure tenant-based authentication & data isolation
+- ☁️ Deployed on AWS (EC2 · RDS · S3) for HA
+- ⚡ Optimized DB queries & API integration
+- 🎨 Dynamic, tenant-aware UI rendering
+
+</td>
+<td width="50%">
+
+### ⚕️ NCRP
+**National Council of Radiation & Protection**
+
+Led full-stack development for a government-tier platform with strict access control.
+
+`React` `Node.js` `RBAC`
+
+- 🛡️ Role-Based Access Control (RBAC)
+- 👥 Streamlined user & role management
+- 🔧 Enhanced system security & efficiency
+- 📊 Admin dashboards for oversight
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🦽 CICIL
+**Healthcare Accessibility Platform**
+
+Empowering people with disabilities through advanced analytics and intuitive interfaces.
+
+`React.js` `Three.js` `Styled-Components`
+
+- 📊 Advanced analytics & insightful dashboards
+- 🎨 3D data visualization with Three.js
+- 💡 Informed decision-making for stakeholders
+- ♿ Accessibility-first design
+
+</td>
+<td width="50%">
+
+### 💼 Kareer Konnect
+**MERN Job Portal — FYP × 10Pearls**
+
+Connecting employers, jobseekers, students, and researchers in one ecosystem.
+
+`MongoDB` `Express` `React` `Node.js`
+
+- 🎯 Advanced candidate filtering algorithms
+- 📝 Tailored profiles for every user type
+- 🔬 Student-researcher matchmaking
+- 🏢 Employer job-posting workflows
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fawad526&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawad526&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=fawad526&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=fawad526&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fawad526&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
+
+</div>
+
+<br/>
+
+## 🎓 Education
+
+<table>
+<tr>
+<td width="100">
+  <img src="https://img.shields.io/badge/2019--2023-00D9FF?style=for-the-badge" />
+</td>
+<td>
+  <strong>Bachelor of Science in Software Engineering</strong><br/>
+  Air University, Islamabad
+</td>
+</tr>
+<tr>
+<td>
+  <img src="https://img.shields.io/badge/2018--2019-6E40C9?style=for-the-badge" />
+</td>
+<td>
+  <strong>HSSC — Pre-Engineering</strong><br/>
+  Fazaia Degree College MRF Kamra
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🤝 Let's Build Something Great Together
+
+<div align="center">
+
+I'm always open to **freelance opportunities, collaborations, and conversations** about scalable web architectures, cloud infrastructure, or interesting product ideas.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/fawad526">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:fawadiqbal274@gmail.com">
+  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://portfolio-fawad.vercel.app/">
+  <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br/><br/>
+
+📱 **+92 370 9720033** · ✉️ **fawadiqbal274@gmail.com** · 📍 **Islamabad, Pakistan**
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💡 *"Building scalable solutions, one commit at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
 
 </div>
